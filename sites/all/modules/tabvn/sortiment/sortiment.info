@@ -1,0 +1,4 @@
+name = Sortimentsida
+description = Sortiment page
+core = 7.x
+package = Tabvn
